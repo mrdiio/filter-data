@@ -1,6 +1,6 @@
 # HOMEWORK
 
-Create a filter data with condition and print the length result
+Create a filter data with condition and print the length result.
 
 ## Run
 
