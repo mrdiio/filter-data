@@ -3,8 +3,7 @@
 Create a filter data with condition and print the length result.
 
 ## Run
-
-run this command on your terminal:
+Type this command in your terminal to run the program:
 ```
 node homework.js
 ```
