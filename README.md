@@ -1,13 +1,14 @@
-Homework
+# HOMEWORK
 
 Create a filter data with condition and print the length result
 
-# Run
+## Run
 
 run this command on your terminal
+```
+node homework.js
+```
 
-$ node homework.js
+### Author
 
-...
-
-Dio
+**Dio**
